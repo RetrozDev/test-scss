@@ -1,0 +1,1 @@
+j'ai utiliser Sass pour simplifier la gestion des styles grâce à l'utilisation de variables, hiérarchiser les styles avec l'imbrication de classes, faciliter la maintenance en regroupant les règles logiques, permettre la réutilisabilité du code avec des mixins, et améliorer la lisibilité du code, ce qui serait particulièrement utile dans des projets complexes ou collaboratifs.
